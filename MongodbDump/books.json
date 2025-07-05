@@ -1,0 +1,2 @@
+{"_id":{"$oid":"672c0a45d17b2fb6ba0d8190"},"name":"Ramesh","age":23,"email":"R@gmail.com"}
+{"_id":{"$oid":"672c0a45d17b2fb6ba0d8191"},"name":"Suresh","age":34,"email":"S@gmail.com"}
