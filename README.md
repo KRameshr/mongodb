@@ -165,7 +165,7 @@ P —  Partition
    
 
 
-— Replication 
+— Replication the process of making an exact copy of something,
 2s heart beat
 10s 
 
